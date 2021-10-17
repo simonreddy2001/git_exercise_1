@@ -1,3 +1,5 @@
 mango
-banana
+strawberry
 grapes
+cherry
+apple
